@@ -3,7 +3,6 @@ tqdm
 torch
 torchvision
 torchaudio
-pytorch3d
 -e file:./third_party/pytorch3d_simplified
 hydra-core
 dill
