@@ -11,3 +11,6 @@ einops
 diffusers
 -e file:./3D-Diffusion-Policy
 numba
+flask
+plotly
+matplotlib
